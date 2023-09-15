@@ -1,9 +1,5 @@
 # Multi-Step Registration Form with React
 
-![React](https://your-project-url.com/your-react-logo.png)
-![Vite](https://your-project-url.com/your-vite-logo.png)
-![Revou](https://your-project-url.com/your-revou-logo.png)
-
 Welcome to my Frontend Implementation project using React, Vite, and Formik for building a multi-step registration form.
 
 ## Demo
